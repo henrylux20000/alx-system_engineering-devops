@@ -11,3 +11,4 @@ Delete the directory my_first_directory that is in the /tmp directory
 Display current directory contents
 a script that lists all files
  a script that prints the type of the file named
+Create a symbolic link 
