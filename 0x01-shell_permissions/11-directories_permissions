@@ -1,3 +1,2 @@
 #!/bin/bash
 chmod a+x -Rv ~/0x01-shell_permissions/
-
