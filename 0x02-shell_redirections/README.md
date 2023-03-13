@@ -1,1 +1,2 @@
-Hello world sscript
+Hello world script
+script to cat /etc/passwd/
